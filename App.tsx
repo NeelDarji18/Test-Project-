@@ -16,9 +16,9 @@ const App = () => {
    
    
     {
-      id: 5,
-      name: 'Realmi',
-      color: 'Black',
+      id: 3,
+      name: 'samsung',
+      color: 'white',
       price: 26000,
       image:
         'https://www.iconpacks.net/icons/1/free-smartphone-icon-695-thumb.png',

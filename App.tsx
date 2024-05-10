@@ -13,14 +13,7 @@ import Product from './component/Product';
 
 const App = () => {
   const product = [
-    {
-      id: 1,
-      name: 'Redmi Not 8Pro',
-      color: 'Black',
-      price: 22000,
-      image:
-        'https://www.iconpacks.net/icons/1/free-smartphone-icon-695-thumb.png',
-    },
+   
     {
       id: 2,
       name: 'Samsung',

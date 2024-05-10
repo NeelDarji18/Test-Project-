@@ -14,16 +14,9 @@ import Product from './component/Product';
 const App = () => {
   const product = [
    
+   
     {
-      id: 2,
-      name: 'Samsung',
-      color: 'White',
-      price: 32000,
-      image:
-        'https://www.iconpacks.net/icons/1/free-smartphone-icon-695-thumb.png',
-    },
-    {
-      id: 3,
+      id: 5,
       name: 'Realmi',
       color: 'Black',
       price: 26000,
